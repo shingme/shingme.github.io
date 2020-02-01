@@ -9,7 +9,7 @@ avatar: assets/img/shingme.png                         # Empty for no avatar in 
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: 감성 개발                                        # Change Blog header text
+header_text: 개 발 일 기                                       # Change Blog header text
 header_feature_image: assets/img/pexels/dubai.jpeg
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
